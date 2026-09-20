@@ -1,0 +1,6 @@
+site_name: Faceless Reels AI Guide
+site_description: Practical documentation for planning and reviewing faceless short videos
+theme:
+  name: readthedocs
+nav:
+  - Home: index.md
